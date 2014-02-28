@@ -19,8 +19,8 @@ Real time multi-user DJ using SoundCloud
 
 
 ###Built with
-Firebase - https://www.firebase.com/
-SoundCloud - https://soundcloud.com/
+- Firebase - https://www.firebase.com/
+- SoundCloud Widget API- https://soundcloud.com/
 
 
 ###Demo
