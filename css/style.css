@@ -1,0 +1,96 @@
+body 
+{
+    background-color:#F5EDE3;
+}
+
+.player
+{
+    border:3px solid #000000;
+    margin-left: auto;
+    margin-right: auto;
+    clear: both;
+    display: none;
+}
+
+.controls
+{
+	display: none;
+	
+}
+
+.volControl
+{
+	visibility: hidden;
+}
+
+.page
+{
+    width:80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.name
+{
+    font-weight:bold;
+    font-size:24px;
+    
+}
+
+.song
+{
+    font-weight:bold;
+    font-size:24px;
+    
+}
+
+.songlbl
+{
+    margin-right:38px;
+}
+
+.readymsg
+{
+    text-align:center;
+    font-weight:bold;
+    font-size:30px;
+}
+
+hr {
+    border: 0;
+    height: 1px;
+    background: #333;
+    background-image: -webkit-linear-gradient(left, #ccc, #333, #ccc); 
+    background-image:    -moz-linear-gradient(left, #ccc, #333, #ccc); 
+    background-image:     -ms-linear-gradient(left, #ccc, #333, #ccc); 
+    background-image:      -o-linear-gradient(left, #ccc, #333, #ccc); 
+}
+
+.popover-menu
+{
+    font-size:9pt;
+}
+
+footer
+{
+    text-align:center;
+    font-size:10pt;
+    font-style:italic;
+}
+
+footer a, a:hover
+{
+    color:#f0ad4e;
+}
+
+.btn-primary
+{
+    background-color:#104386;
+}
+
+.URL
+{
+    text-align:center;
+    font-weight:bold;
+    font-size:15px;
+}
